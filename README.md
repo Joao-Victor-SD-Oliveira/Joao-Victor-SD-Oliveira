@@ -28,8 +28,12 @@ Sou apaixonado por tecnologia focado em construir sistemas robustos e escalávei
 
 ---
 
-## 📊 Estatísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Victor-SD-Oliveira&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Victor-SD-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor-SD-Oliveira&layout=compact&theme=dracula" />
+</div>
 
 ---
 
