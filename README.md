@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Backend Java em formação | Estudante na Univ. São Judas (Graduação 2026)
 
-Sou apaixodano por tecnologia focado em construir sistemas robustos e escaláveis. Atualmente, dedico meus estudos ao ecossistema **Java** e **Spring Boot**, buscando sempre as melhores práticas de desenvolvimento.
+Sou apaixonado por tecnologia focado em construir sistemas robustos e escaláveis. Atualmente, dedico meus estudos ao ecossistema **Java** e **Spring Boot**, buscando sempre as melhores práticas de desenvolvimento.
 
 ---
 
