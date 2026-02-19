@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou o João 👋
 
-<!--
-**Joao-Victor-SD-Oliveira/Joao-Victor-SD-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Backend Java em formação | Estudante na Univ. São Judas (Graduação 2026)
 
-Here are some ideas to get you started:
+Sou apaixodano por tecnologia focado em construir sistemas robustos e escaláveis. Atualmente, dedico meus estudos ao ecossistema **Java** e **Spring Boot**, buscando sempre as melhores práticas de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+- 🎓 Cursando Engenharia/Sistemas de Informação na **Universidade São Judas Tadeu** (Formação em 2026).
+- 🎯 Em busca da primeira oportunidade como **Desenvolvedor Java**.
+- 💡 Estou sempre em busca de oportunidades para expandir meu conhecimento e habilidades através de cursos complementares e projetos práticos. Acredito firmemente na importância do aprendizado contínuo e da adaptação às rápidas mudanças no campo da tecnologia.
+
+---
+
+## 💻 Tech Stack
+
+### Linguagens e Frameworks
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+### Banco de Dados e Ferramentas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Victor-SD-Oliveira&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jota-v/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovikthor0@gmail.com)
+
+---
