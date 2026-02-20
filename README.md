@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia focado em construir sistemas robustos e escalávei
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Cursando Engenharia/Sistemas de Informação na **Universidade São Judas Tadeu** (Formação em 2026).
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Universidade São Judas Tadeu** (Formação em 2026).
 - 🎯 Em busca da primeira oportunidade como **Desenvolvedor Java**.
 - 💡 Estou sempre em busca de oportunidades para expandir meu conhecimento e habilidades através de cursos complementares e projetos práticos. Acredito firmemente na importância do aprendizado contínuo e da adaptação às rápidas mudanças no campo da tecnologia.
 
