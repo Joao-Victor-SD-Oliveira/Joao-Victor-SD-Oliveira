@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="João Victor Oliveira: do fiscal e contábil para dados e automação">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#134e4a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <g opacity="0.12" stroke="#5eead4" stroke-width="1">
+    <path d="M0 80H1280M0 160H1280M0 240H1280M160 0V320M480 0V320M800 0V320M1120 0V320"/>
+  </g>
+  <text x="640" y="118" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#f8fafc">João Victor Oliveira</text>
+  <rect x="440" y="140" width="400" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" text-anchor="middle">
+    <text x="470" y="204" fill="#cbd5e1">Fiscal e Contábil</text>
+    <text x="640" y="204" fill="#5eead4">→</text>
+    <text x="810" y="204" fill="#38bdf8">Dados e Automação</text>
+  </g>
+  <text x="640" y="262" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#94a3b8">Excel · Power Query · SQL (em formação) · São Paulo, SP</text>
+</svg>
